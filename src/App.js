@@ -14,6 +14,8 @@ function App() {
       <Section flexDirection="row-reverse" />
       <Section flexDirection="row" />
       <Section flexDirection="row-reverse" />
+      <Section flexDirection="row" />
+      <Section flexDirection="row-reverse" />
     </SmoothScroll>
   );
 }
